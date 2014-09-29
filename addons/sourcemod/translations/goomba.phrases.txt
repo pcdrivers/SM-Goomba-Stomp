@@ -5,56 +5,67 @@
 		"#format"		"{1:N},{2:N}"
 		"fr"			"{olive}>> {teamcolor}{1} {default}a stompé {olive}{2} {default}!"
 		"en"			"{olive}>> {teamcolor}{1} {default}goomba stomped {olive}{2} {default}!"
+		"es"			"{olive}>> {teamcolor}{1} {default}ha pisoteado a {olive}{2} {default}!"
 	}
 	"Goomba Stomp TeamKill"
 	{
 		"#format"		"{1:N},{2:N}"
 		"fr"			"{olive}>> {teamcolor}{1} {default}a stompé {teamcolor}{2} {default}!"
 		"en"			"{olive}>> {teamcolor}{1} {default}goomba stomped {teamcolor}{2} {default}!"
+		"es"			"{olive}>> {teamcolor}{1} {default}ha pisoteado a {teamcolor}{2} {default}!"
 	}
 	"Victim Stomped"
 	{
 		"fr"			"Vous avez été stompé !"
 		"en"			"You've been stomped !"
+		"es"			"Has sido pisoteado !"
 	}
 	"Victim Immun"
 	{
 		"fr"			"{lightgreen}Le stomp est désactivé pour la victime."
 		"en"			"{lightgreen}Stomp is disabled for the victim."
+		"es"			"{lightgreen}La victima no puede ser pisoteada."
 	}
 	"Immun Disabled"
 	{
 		"fr"			"Le système d'immunité n'est pas actif."
 		"en"			"Immunity system is disabled."
+		"es"			"Inmunidad al pisoteo ha sido desactivada."
 	}
 	"Immun On"
 	{
 		"fr"			"Stomp désactivé, l'option sera active à la prochaine réapparition."
 		"en"			"Stomp disabled, the option will be applied at respawn."
+		"es"			"Inmunidad - Pisoteo desactivado, la configuracion sera aplicada al reaparecer."
 	}
 	"Immun Off"
 	{
 		"fr"			"Stomp activé, l'option sera active à la prochaine réapparition."
 		"en"			"Stomp enabled, the option will be applied at respawn."
+		"es"			"Inmunidad - Pisoteo Activado, la configuracion sera aplicada al reaparecer."
 	}
 	"Status On"
 	{
 		"fr"			"Le stomp est actuellement actif."
 		"en"			"Stomp is currently enabled."
+		"es"			"Los pisoteos estan activados."
 	}
 	"Status Off"
 	{
 		"fr"			"Le stomp est actuellement inactif."
 		"en"			"Stomp is currently disabled."
+		"es"			"Los pisoteos estan desactivados."
 	}
 	"Status Next On"
 	{
 		"fr"			"Le stomp sera actif à la prochaine réapparition."
 		"en"			"Stomp will be enabled at respawn."
+		"es"			"Los pisoteos seran activados al reaparecer."
 	}
 	"Status Next Off"
 	{
 		"fr"			"Le stomp sera inactif à la prochaine réapparition."
 		"en"			"Stomp will be disabled at respawn."
+		"es"			"Los pisoteos seran desactivados al reaparecer."
 	}
 }
